@@ -1,8 +1,9 @@
 # GOTO
 
 ## GOTO是什么？
+
 A quick launch software for Android. 
-安卓端的快速启动软件
+一个安卓端的快速启动软件
 
 
 ##为什么选择GOTO?
