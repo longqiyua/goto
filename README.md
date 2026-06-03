@@ -28,15 +28,16 @@ If you find it good, or if there are any shortcomings, feel free to leave a comm
 如果您觉得好，或者有什么不足的地方，欢迎留言。
 
 
-示例：
-{
-  "Activate_ID": "",
-  "Registration_Date": "",
-  "User_Day": 0,
-  "APPStart_Times": 0,
-  "Character_Num": 0,
-  "Total_Use_Time": 0,
-  "App_Launches": []
+**统计功能数据结构示例：**
+```json
+{ 
+  "Activate_ID": "", 
+  "Registration_Date": "", 
+  "User_Day": 0, 
+  "APPStart_Times": 0, 
+  "Character_Num": 0, 
+  "Total_Use_Time": 0, 
+  "App_Launches": [] 
 }
 
 
