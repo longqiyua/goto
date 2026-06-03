@@ -1,12 +1,12 @@
 # GOTO
 
-Keywords: 
-  Quick startup, lightweight design, local operation, 
-  statistical functions, high degree of customizability, 
-  multiple operating modes available, seamless user experience.
-关键词：
-  快速启动 轻量 本地 统计功能 高度自定义 
-  多种操作模式可选 无感操作
+Keywords:   
+  Quick startup, lightweight design, local operation,   
+  statistical functions, high degree of customizability,   
+  multiple operating modes available, seamless user experience.  
+关键词：  
+  快速启动 轻量 本地 统计功能 高度自定义   
+  多种操作模式可选 无感操作  
 
 
 ## What is GOTO 是什么？
