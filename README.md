@@ -6,7 +6,7 @@ A quick launch software for Android.
 一个安卓端的快速启动软件
 
 
-##为什么选择GOTO?
+## 为什么选择GOTO?
 The basic search and startup functions of the software support pure local operation.
 At the same time, members come with usage statistics features (registration date, days used, number of app launches, 
 number of input characters, total number of launches, and gradient charts of each software startup count, including the top 5 startups), 
@@ -32,7 +32,7 @@ If you find it good, or if there are any shortcomings, feel free to leave a comm
 }
 
 
-##其他声明：
+## 其他声明：
 The software is still in its early stages, and the number of activation codes is limited. If you need it, 
 please purchase as required.
 软件处于初期状态，激活码数量有限，如有需要请按需购买。
