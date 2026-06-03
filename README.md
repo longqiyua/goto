@@ -9,16 +9,16 @@ A quick launch software for Android.
 
 
 ## 为什么选择GOTO?
-The basic search and startup functions of the software support pure local operation.
-At the same time, members come with usage statistics features (registration date, days used, number of app launches, 
-number of input characters, total number of launches, 
-and gradient charts of each software startup count, including the top 5 startups), 
-as well as multi-device synchronization via activation codes
-Membership is a lifetime buyout system, limited to one device per transaction.
-Of course, if you acquire membership through other means,
-we will not deliberately obstruct you; this is also recognition of us.
-If you find it good, or if there are any shortcomings, feel free to leave a comment.
-
+The basic search and startup functions of the software support pure local operation.  
+At the same time, members come with usage statistics features (registration date, days used, number of app launches,   
+number of input characters, total number of launches,   
+and gradient charts of each software startup count, including the top 5 startups),   
+as well as multi-device synchronization via activation codes  
+Membership is a lifetime buyout system, limited to one device per transaction.  
+Of course, if you acquire membership through other means,  
+we will not deliberately obstruct you; this is also recognition of us.  
+If you find it good, or if there are any shortcomings, feel free to leave a comment.  
+  
 
 软件本体的基本搜索和启动功能支持**纯本地**运行。
 同时，会员附带使用**统计功能**（注册日期，使用天数，软件启动次数，输入字符数，总启动次数以及各软件启动次数的梯度统计图，当然也有TOP5启动次数），
