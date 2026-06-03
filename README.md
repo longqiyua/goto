@@ -68,24 +68,28 @@ Feedback, positive or constructive criticism, is always welcome.
    completely free of charge.
 2. Fuzzy Search:Supports app lookup via Chinese Pinyin or loose spelling.
    To take Amazon as an example, keywords such as amazon, ama, amazo can all locate the target application.
-3. Custom Quick-tag Search:You may bind a custom shorthand tag like amz to Amazon, with two optional running modes.
+3. Additional Search Feature: Take Amazon for example. If you start typing "Ama" but then change your mind and want to open another app such as Uber, Spotify or WhatsApp, there’s no need to
+   backspace, delete existing input or return to the blank search bar. Just keep typing the name of your newly desired application, and the system will prioritize your latest search
+   intention automatically.
+4. Custom Quick-tag Search:You may bind a custom shorthand tag like amz to Amazon, with two optional running modes.
    Standard Mode: Typing amz pins Amazon at the top of your search results.
    Quick Launch Mode: Inputting amz directly opens Amazon instantly with no extra confirmation tap.
    Note: Improper configuration of Quick Launch Mode may degrade user experience, please adjust settings carefully.
-4. Additional available features include intelligent automatic indexing, floating shortcut ball, in-app quick-launch menu (sort automatically by launch frequency, manual drag rearrangement, or hybrid sorting), gesture
+5. Additional available features include intelligent automatic indexing, floating shortcut ball, in-app quick-launch menu (sort automatically by launch frequency, manual drag rearrangement, or hybrid sorting), gesture
    triggered app launching (swipe up/down/left/right plus customized complex gestures), categorized app folders, and more features to explore.
-5. …………
+6. …………
 
 
   
 ### 中文生态用户看这里！！！  
 1. 乱序搜索：如果您需要搜索京东，即使您输入东京，系统也能为您通过匹配度算法 高优先级显示"京东"软件（前提是如果你的手机没有名字带有东京的应用的话）；补充：如果有，软件也能索引到，毕竟搜索结果不止一个。
 2. 补充1:即使您因为键盘太挤，屏幕偏小等原因导致点错，点多，点漏字母，如jd输入为jhkfded，系统也能综合判断为您选择出京东。具体请进入软件体验，该功能也在免费功能范围内。
-3. 模糊搜索：通过中文拼音搜索应用（当前仅支持软件名字，比如搜索京东，jingdong/jd/jingdoo类似均可）
-4. 快捷绑定搜索：同样地，您可以通过绑定jd索引京东软件，并且可以选择标准/快速模式；标准模式下，输入“jd",京东将会置顶显示；而如果是快速模式，您输入jd，将会不经过额外的确认点击按钮 软件直接跳转到jd软件，  
+3. 追加搜索功能：又双叒叕是京东，如果您输入京东，突然想去其他软件，比如淘宝？美团？饿了么？不需要退格，不需要删除，也不需要返回；只需要继续在后面加入您想要跳转的应用，软件将会以您最新的意图为准。
+4. 模糊搜索：通过中文拼音搜索应用（当前仅支持软件名字，比如搜索京东，jingdong/jd/jingdoo类似均可）
+5. 快捷绑定搜索：同样地，您可以通过绑定jd索引京东软件，并且可以选择标准/快速模式；标准模式下，输入“jd",京东将会置顶显示；而如果是快速模式，您输入jd，将会不经过额外的确认点击按钮 软件直接跳转到jd软件，  
 （请注意，快速模式下，如果设置不当可能导致体验下滑，请三思而后行）
-5. 还有如智能索引，悬浮球功能，软件内部快速启动菜单（依据启动次数排位或者自主拖动排序，也可以混合排序），软件内通过手势打开应用（上滑，下拉，左右滑动以及各种复杂手势），文件夹等功能等待探索
-6. …………
+6. 还有如智能索引，悬浮球功能，软件内部快速启动菜单（依据启动次数排位或者自主拖动排序，也可以混合排序），软件内通过手势打开应用（上滑，下拉，左右滑动以及各种复杂手势），文件夹等功能等待探索
+7. …………
 
 
  
