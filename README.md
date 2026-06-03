@@ -1,14 +1,13 @@
 # GOTO
 
-
-
+  
 ## What is GOTO 是什么？
 
 A quick launch software for Android. 
 一个安卓端的快速启动软件
 
 
-
+  
 ## Why choose GOTO? 为什么选择GOTO?
 
 The core search and launch features of the software run entirely locally on your device.  
@@ -47,6 +46,7 @@ Feedback, positive or constructive criticism, is always welcome.
 
 
 
+  
 ## Introduction to Examples of Core Functionality 核心功能例子介绍
 
 ### English-speaking ecosystem users, look here!!!
@@ -64,7 +64,7 @@ Feedback, positive or constructive criticism, is always welcome.
 5. …………
 
 
-
+  
 ### 中文生态用户看这里！！！  
 1. 乱序搜索：如果您需要搜索京东，即使您输入东京，系统也能为您通过匹配度算法 高优先级显示"京东"软件（前提是如果你的手机没有名字带有东京的应用的话）；补充：如果有，软件也能索引到，毕竟搜索结果不止一个。
 2. 模糊搜索：通过中文拼音搜索应用（当前仅支持软件名字，比如搜索京东，jingdong/jd/jingdoo类似均可）
@@ -75,7 +75,7 @@ Feedback, positive or constructive criticism, is always welcome.
 
 
  
-
+  
 
 ## Other tips 其他提示：
 The software is in its initial stage,   
