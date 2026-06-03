@@ -28,7 +28,7 @@ If you find it good, or if there are any shortcomings, feel free to leave a comm
 如果您觉得好，或者有什么不足的地方，欢迎留言。
 
 
-**统计功能数据结构示例：**
+**统计功能数据结构示例：
 ```json
 { 
   "Activate_ID": "", 
@@ -39,9 +39,7 @@ If you find it good, or if there are any shortcomings, feel free to leave a comm
   "Total_Use_Time": 0, 
   "App_Launches": [] 
 }
-
-
-
+```
 
 ## 其他声明：
 The software is in its initial stage, and the number of activation codes is limited. Please purchase as needed if needed.
