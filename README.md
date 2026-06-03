@@ -42,8 +42,9 @@ If you find it good, or if there are any shortcomings, feel free to leave a comm
 ```
 
 ## 其他声明：
-The software is in its initial stage, and the number of activation codes is limited. Please purchase as needed if needed.
-The activation code number only represents the activation sequence and has no other meaning.
+The software is in its initial stage,   
+and the number of activation codes is limited. Please purchase as needed if needed.  
+The activation code number only represents the activation sequence and has no other meaning.  
 
-软件处于初期状态，激活码数量有限，如有需要请按需购买。
-激活码编号仅代表激活次序，无其他含义。
+软件处于初期状态，激活码数量有限，如有需要请按需购买。    
+激活码编号仅代表激活次序，无其他含义。  
