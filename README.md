@@ -50,8 +50,18 @@ Feedback, positive or constructive criticism, is always welcome.
 ## Introduction to Examples of Core Functionality 核心功能例子介绍
 
 ### English-speaking ecosystem users, look here!!!
-
-
+1. Out-of-order Search:For example, if you intend to look up Amazon but type in similar misspelled words,
+   the algorithm prioritizes showing Amazon in results.
+   If other apps match your typed keyword, they will also appear alongside in the search list.
+2. Fuzzy Search:Supports app lookup via Chinese Pinyin or loose spelling.
+   To take Amazon as an example, keywords such as amazon, ama, amazo can all locate the target application.
+3. Custom Quick-tag Search:You may bind a custom shorthand tag like amz to Amazon, with two optional running modes.
+   Standard Mode: Typing amz pins Amazon at the top of your search results.
+   Quick Launch Mode: Inputting amz directly opens Amazon instantly with no extra confirmation tap.
+   Note: Improper configuration of Quick Launch Mode may degrade user experience, please adjust settings carefully.
+4. Additional available features include intelligent automatic indexing, floating shortcut ball, in-app quick-launch menu (sort automatically by launch frequency, manual drag rearrangement, or hybrid sorting), gesture
+   triggered app launching (swipe up/down/left/right plus customized complex gestures), categorized app folders, and more features to explore.
+5. …………
 
 
 
@@ -60,7 +70,7 @@ Feedback, positive or constructive criticism, is always welcome.
 2. 模糊搜索：通过中文拼音搜索应用（当前仅支持软件名字，比如搜索京东，jingdong/jd/jingdoo类似均可）
 3. 快捷绑定搜索：同样地，您可以通过绑定jd索引京东软件，并且可以选择标准/快速模式；标准模式下，输入“jd",京东将会置顶显示；而如果是快速模式，您输入jd，将会不经过额外的确认点击按钮 软件直接跳转到jd软件，
 （请注意，快速模式下，如果设置不当可能导致体验下滑，请三思而后行）
-4. 还有如智能索引，悬浮球功能，软件内部快速启动菜单（依据启动次数排位，自主排序设置），软件内手势打开应用功等功能等待探索
+4. 还有如智能索引，悬浮球功能，软件内部快速启动菜单（依据启动次数排位或者自主拖动排序，也可以混合排序），软件内通过手势打开应用（上滑，下拉，左右滑动以及各种复杂手势），文件夹等功能等待探索
 5. …………
 
 
