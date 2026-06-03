@@ -36,7 +36,7 @@ Feedback, positive or constructive criticism, is always welcome.
 同时，会员附带使用**统计功能**  
 （统计项包含：注册日期，使用天数，软件启动次数，输入字符数，总启动次数以及各软件启动次数的梯度统计图，当然也有TOP5的软件启动次数）    
 以及通过激活码实现的**多端同步**功能  
-会员为**终身买断制**，单次仅限一台设备使用。  
+会员为**终身买断制**，单次仅限一台设备使用————你最常触碰的那台，也支持无限设备间切换   
 当然，如果您通过其他方式获取会员，我们也不会刻意阻挠，这也是对我们的认可。  
 如果您觉得好，或者发现有什么不足的地方，欢迎留言。 
 
@@ -92,10 +92,11 @@ Feedback, positive or constructive criticism, is always welcome.
   
 
 ## Other tips 其他提示：
-The number of activation codes is limited. Please purchase as needed if needed.  
-The activation code number only represents the activation sequence and has no other meaning.  
-If you think this software is helpful to you, please give it a **star**
-
-激活码数量有限，如有需要请按需购买。    
+The software is still in the improvement stage,   
+and the number of activation codes is limited. Please purchase as needed.   
+The activation code number only represents the activation sequence and has no other meaning.    
+If you think this software is helpful to you, please give it a **star**  
+  
+软件尚处于完善阶段，激活码数量有限，如有需要请按需购买。    
 激活码编号仅代表激活次序，无其他含义。  
 如果您认为该软件对您有帮助，请点一个**星星**
