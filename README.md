@@ -1,8 +1,8 @@
 # GOTO
 
-![GOTO LOGO](GOTO_LOGO.png)
-
-
+<div align="center">
+  <img src="GOTO_LOGO.png" width="120"/>
+</div>
 
 Keywords:   
   Quick startup, lightweight design, local operation,   
