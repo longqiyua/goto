@@ -81,7 +81,7 @@ Feedback, positive or constructive criticism, is always welcome.
    Note: Improper configuration of Quick Launch Mode may degrade user experience, please adjust settings carefully.
 5. Additional available features include intelligent automatic indexing, floating shortcut ball, in-app quick-launch menu (sort automatically by launch frequency, manual drag rearrangement, or hybrid sorting), gesture
    triggered app launching (swipe up/down/left/right plus customized complex gestures), categorized app folders, and more features to explore.
-6. …………
+6. To be continued…………
 
 
   
@@ -92,8 +92,8 @@ Feedback, positive or constructive criticism, is always welcome.
 4. 模糊搜索：通过中文拼音搜索应用（当前仅支持软件名字，比如搜索京东，jingdong/jd/jingdoo类似均可）
 5. 快捷绑定搜索：同样地，您可以通过绑定jd索引京东软件，并且可以选择标准/快速模式；标准模式下，输入“jd",京东将会置顶显示；而如果是快速模式，您输入jd，将会不经过额外的确认点击按钮 软件直接跳转到jd软件，  
 （请注意，快速模式下，如果设置不当可能导致体验下滑，请三思而后行）
-6. 还有如智能索引，悬浮球功能，软件内部快速启动菜单（依据启动次数排位或者自主拖动排序，也可以混合排序），软件内通过手势打开应用（上滑，下拉，左右滑动以及各种复杂手势），文件夹等功能等待探索
-7. …………
+6. 还有如智能索引，悬浮球功能，软件内通过手势打开应用（上滑，下拉，左右滑动以及各种复杂手势）等功能等待探索
+7. 未完待续…………
 
 
  
