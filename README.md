@@ -96,11 +96,12 @@ Feedback, positive or constructive criticism, is always welcome.
   
 
 ## Other tips 其他提示：
-The software is still in the improvement stage,   
-and the number of activation codes is limited. Please purchase as needed.   
-The activation code number only represents the activation sequence and has no other meaning.    
-If you think this software is helpful to you, please give it a **star**  
+The software is still in the process of improvement, so some bugs may occur.   
+Thank you in advance for your understanding!  
+The software will later adopt a lifetime buyout system and is currently in beta testing,   
+with all membership features available for free.  
+If you think this software is helpful to you, please give a star  
   
-软件尚处于完善阶段，激活码数量有限，如有需要请按需购买。    
-激活码编号仅代表激活次序，无其他含义。  
+软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！
+软件后续采用终身买断制，当前处于Beta测试阶段，所有会员功能均可免费使用。
 如果您认为该软件对您有帮助，请点一个**星星**
