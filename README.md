@@ -45,7 +45,7 @@ Feedback, positive or constructive criticism, is always welcome.
 同时，您的反馈也是对我们最大的支持。 
 
 
-**统计功能数据结构示例：
+统计功能数据示例：
 ```json
 { 
   "Activate_ID": "", 
