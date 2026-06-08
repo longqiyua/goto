@@ -108,5 +108,5 @@ Currently, it is in Beta testing, and all member features are free to use.
 If you find this software helpful, please click a **star**.  
   
 软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！
-软件后续采用终身买断制，当前处于Beta测试阶段，所有会员功能均可免费使用。（激活码和同步功能咱）
+软件后续采用终身买断制，当前处于Beta测试阶段，所有会员功能均可免费使用。（激活码和同步功能暂时不可使用）
 如果您认为该软件对您有帮助，请点一个**星星**
