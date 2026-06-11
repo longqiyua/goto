@@ -9,6 +9,10 @@ Keywords:
   Lightweight Local Statistical Features Highly Customizable  
   Multiple Operation Modes Optional Seamless Operation 
 
+
+软件理念
+**Go anywhere.Go anywhere. Type anything.  
+随意写 随心去**
   
 关键词：  
   超模糊匹配 快速启动 
