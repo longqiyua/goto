@@ -10,7 +10,7 @@ Keywords:
   Multiple Operation Modes Optional Seamless Operation 
 
 
-软件理念
+软件理念  
 **Go anywhere.Go anywhere. Type anything.  
 随意写 随心去**
   
