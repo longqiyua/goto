@@ -1,4 +1,4 @@
-# goto ![PNG](./GOTO_LOGO.png width=32)
+# goto <img src="./GOTO_LOGO.png" width="32" align="middle">
 
 
 Keywords:   
