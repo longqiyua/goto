@@ -1,4 +1,4 @@
-# GOTO
+# goto
 
 <div align="center">
   <img src="GOTO_LOGO.png" width="120"/>
@@ -27,7 +27,7 @@ A quick launch software for Android.
 
 
   
-## Why choose GOTO? 为什么选择GOTO?
+## Why choose goto? 为什么选择goto?
 
 The core search and launch features of the software run entirely locally on your device.  
 For core search: given the compact input panel of mobile IME keyboards which often causes mis-taps and poor usability,   
