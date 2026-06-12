@@ -1,9 +1,6 @@
+# goto
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <h1 style="margin:0;">goto</h1>
-  <img src="./GOTO_LOGO.png" width="36">
-</div>
-
+<img src="./GOTO_LOGO.png" width="180">
 
 Keywords:   
   Super Fuzzy Matching Quick Start  
