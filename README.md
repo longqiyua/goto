@@ -1,4 +1,8 @@
-# goto <img src="./GOTO_LOGO.png" width="32" align="middle">
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <h1 style="margin:0;">goto</h1>
+  <img src="./GOTO_LOGO.png" width="36">
+</div>
 
 
 Keywords:   
