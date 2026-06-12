@@ -1,8 +1,5 @@
 # goto
 
-<div align="center">
-  <img src="GOTO_LOGO.png" width="120"/>
-</div>
 
 Keywords:   
   Super Fuzzy Matching Quick Start  
