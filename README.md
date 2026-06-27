@@ -49,15 +49,16 @@ Feedback, positive or constructive criticism, is always welcome.
 
 
 ## Other tips 其他提示：
-The software is still under development   
-and may contain some bugs. Thank you for your understanding!  
-The software will be available on a lifetime purchase basis.   
-Currently, it is in Beta testing, and all member features are free to use.   
-(Activation codes and synchronization functions are included.)  
-If you find this software helpful, please click a **star**.  
+The software is still in the refinement stage and some bugs may occur.   
+Thank you in advance for your understanding!   
+The software will adopt a lifetime buyout system in the future.   
+Currently, it will be in the Beta testing stage for a long time,   
+and all member functions can be used for free  
   
-软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！
-软件后续采用终身买断制，当前处于Beta测试阶段，所有会员功能均可免费使用。（激活码和同步功能暂时不可使用）
+软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！    
+软件后续采用终身买断制，  
+目前长期会处于Beta测试阶段，所有会员功能均可免费使用。    
+
 
 ## LICENSE  
 Copyright (C) 2026 longqiyua  
