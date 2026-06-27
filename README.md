@@ -1,5 +1,8 @@
 # goto
 
+// Copyright (C) 2026 longqiyua
+// Licensed under GPL-3.0
+
 <img src="./GOTO_LOGO.png" width="180">
 
 Keywords:   
