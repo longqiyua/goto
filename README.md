@@ -1,14 +1,20 @@
 # goto
 
-Copyright (C) 2026 longqiyua
-Licensed under GPL-3.0
 
 <img src="./GOTO_LOGO.png" width="180">
+
+
+## What is GOTO 是什么？
+
+A quick launch software for Android. 
+一个快速启动软件
+
 
 Keywords:   
   Fast startup, fuzzy matching engine, adaptive debounce & throttle    
   Lightweight, local-only, built-in statistics, highly customizable    
   Multiple operation modes, non-intrusive instant translation   
+
   
 关键词：  
   快速启动 模糊匹配引擎 自适应防抖/节流  
@@ -16,13 +22,6 @@ Keywords:
   多种操作模式可选 无感操作  
 
 
-## What is GOTO 是什么？
-
-A quick launch software for Android. 
-一个安卓端的快速启动软件
-
-
-  
 ## Why choose goto? 为什么选择goto?
 
 The core search and launch features of the software run entirely locally on your device.  
@@ -46,26 +45,8 @@ Feedback, positive or constructive criticism, is always welcome.
 同时，您的反馈也是对我们最大的支持。 
 
 
-统计功能数据示例：
-```json
-{ 
-  "Activate_ID": "", 
-  "Registration_Date": "", 
-  "User_Day": 0, 
-  "APPStart_Times": 0, 
-  "Character_Num": 0, 
-  "Total_Use_Time": 0, 
-  "App_Launches": [] 
-}
-```
-
-
-
-  
 ## Introduction to Examples of Core Functionality 核心功能例子介绍
 
- 
-  
 
 ## Other tips 其他提示：
 The software is still under development   
@@ -77,4 +58,8 @@ If you find this software helpful, please click a **star**.
   
 软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！
 软件后续采用终身买断制，当前处于Beta测试阶段，所有会员功能均可免费使用。（激活码和同步功能暂时不可使用）
-如果您认为该软件对您有帮助，请点一个**星星**
+
+## LICENSE  
+Copyright (C) 2026 longqiyua  
+Licensed under GPL-3.0  
+
