@@ -6,14 +6,14 @@ Licensed under GPL-3.0
 <img src="./GOTO_LOGO.png" width="180">
 
 Keywords:   
-**  Fast startup, fuzzy matching engine, adaptive debounce & throttle  
-  Lightweight, local-only, built-in statistics, highly customizable  
-  Multiple operation modes, non-intrusive instant translation  **
+  Fast startup, fuzzy matching engine, adaptive debounce & throttle    
+  Lightweight, local-only, built-in statistics, highly customizable    
+  Multiple operation modes, non-intrusive instant translation   
   
 关键词：  
-**  快速启动 模糊匹配引擎 自适应防抖/节流
-  轻量 本地 统计功能 高度自定义   
-  多种操作模式可选 无感操作**
+  快速启动 模糊匹配引擎 自适应防抖/节流  
+  轻量 本地 统计功能 高度自定义     
+  多种操作模式可选 无感操作  
 
 
 ## What is GOTO 是什么？
