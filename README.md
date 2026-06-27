@@ -55,9 +55,12 @@ The software will adopt a lifetime buyout system in the future.
 Currently, it will be in the Beta testing stage for a long time,   
 and all member functions can be used for free  
   
-软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！    
-软件后续采用终身买断制，  
-目前长期会处于Beta测试阶段，所有会员功能均可免费使用。    
+软件尚处于完善阶段，可能出现部分BUG，提前感谢您的谅解！     
+软件后续采用终身买断制，    
+目前长期处于Beta测试阶段，所有会员功能均可免费使用。      
+基本搜索等软件功能不会在后续设置为会员功能  
+对使用无障碍服务（如屏幕阅读器）的用户等，会员功能将自动免费启用  
+软件后续将会缓慢添加新的功能，如**自定义算法**等  
 
 
 ## LICENSE  
