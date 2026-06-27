@@ -7,7 +7,7 @@
 ## What is GOTO 是什么？
 
 A quick launch software for Android. 
-一个快速启动软件
+一个软件的快捷启动工具
 
 
 Keywords:   
