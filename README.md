@@ -7,35 +7,76 @@
   GOTO
 </h1>
 
-<p align="center">
-  <code>go to</code>
-</p>
 
-<br>
 
-<p align="center">
-  <code>Nothing is here.</code>
-  <br>
-  <sub>But something is waiting.</sub>
-</p>
-
-<br>
+<br />
+<br />
+<br />
 
 <p align="center">
-  <a href="https://longqiyua.github.io/goto/">
-    <img 
-      src="https://img.shields.io/badge/ENTER%20GOTO-111111?style=for-the-badge"
-      height="42"
-    >
-  </a>
+  <font size="5" color="#333333">Nothing to see here —— But plenty to discover on GitHub Pages.</font>
 </p>
 
-<br><br>
+<p align="center">
+  <font size="4" color="#666666">这里什么都没留下。不过，我们在 GitHub Pages 里面放了一些</font>
+</p>
+
+<br />
+<br />
+
+
+---
+
+<br />
+<br />
+
+
+<p align="center">
+  <font size="4" color="#888888">Find it</font>
+</p>
+
+<p align="center">
+  <font size="4" color="#888888">去看看吧。</font>
+</p>
+
+<br />
+<br />
+<br />
+
+
+
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <sub>
     © GOTO
     <br>
-   Created by longqiyua · AGPL-3.0
+    AGPL-3.0 · 2026.07.15 GMT+8
   </sub>
 </p>
