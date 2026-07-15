@@ -1,10 +1,11 @@
+<br />
+
 <p align="center">
-  <br />
-  <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="140" />
+  <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="130" />
 </p>
 
 <p align="center">
-  <strong><font size="6" color="#333333">GOTO</font></strong>
+  <strong><font size="6" color="#24292e">GOTO</font></strong>
 </p>
 
 <p align="center">
@@ -15,11 +16,10 @@
 
 <br />
 
+<!-- 这是一个高定版的交互传送门，支持完美的砖红色渲染 -->
 <p align="center">
-  <a href="https://longqiyua.github.io/goto/" style="text-decoration: none;">
-    <kbd style="background-color: #B22222; color: #FFFFFF; padding: 10px 24px; border-radius: 8px; font-weight: bold; border: none; box-shadow: 0 4px 12px rgba(178,34,34,0.2); cursor: pointer; display: inline-block; transition: all 0.3s ease;">
-      ENTER GOTO →
-    </kbd>
+  <a href="https://longqiyua.github.io/goto/">
+    <img src="https://img.shields.io/badge/ENTER%20GOTO%20%E2%86%92-B22222?style=for-the-badge" height="40" />
   </a>
 </p>
 
@@ -27,9 +27,7 @@
 <br />
 
 <p align="center">
-  <sub>
-    <font color="#999999">
-      Go and find out. / 去看看吧。
-    </font>
-  </sub>
+  <font size="1" color="#999999">
+    Go and find out. / 去看看吧。
+  </font>
 </p>
