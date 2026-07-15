@@ -1,27 +1,35 @@
 <p align="center">
-  <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="160" />
-</p>
-
-<p align="center"><strong><font size="6">GOTO</font></strong></p>
-
-<p align="center">
-  Nothing to see here——But plenty to discover on GitHub Pages.
+  <br />
+  <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="140" />
 </p>
 
 <p align="center">
-  这里什么都没留下。不过，我们在 GitHub Pages 里面放了一些
+  <strong><font size="6" color="#333333">GOTO</font></strong>
 </p>
 
 <p align="center">
-   <strong><a href="https://longqiyua.github.io/goto/">longqiyua.github.io/goto/</a></strong>
+  <font size="3" color="#666666"><i>Nothing to see here —— But plenty to discover on GitHub Pages.</i></font>
+  <br />
+  <font size="2" color="#999999">这里空无一物 —— 但惊喜，早已在 GitHub Pages 里为你备齐。</font>
 </p>
 
----
+<br />
 
 <p align="center">
-  Go and find out.
+  <a href="https://longqiyua.github.io/goto/" style="text-decoration: none;">
+    <kbd style="background-color: #B22222; color: #FFFFFF; padding: 10px 24px; border-radius: 8px; font-weight: bold; border: none; box-shadow: 0 4px 12px rgba(178,34,34,0.2); cursor: pointer; display: inline-block; transition: all 0.3s ease;">
+      ENTER GOTO →
+    </kbd>
+  </a>
 </p>
 
+<br />
+<br />
+
 <p align="center">
-  去看看吧。
+  <sub>
+    <font color="#999999">
+      Go and find out. / 去看看吧。
+    </font>
+  </sub>
 </p>
