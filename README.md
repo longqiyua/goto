@@ -1,18 +1,7 @@
 <p align="center">
   <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="160" />
 </p>
-
 <h1 align="center">GOTO</h1>
-
-<p align="center">
-  <strong>There is something waiting for you...</strong>
-</p>
-
-<p align="center">
-  <a href="https://longqiyua.github.io/goto/">
-    <img src="https://img.shields.io/badge/Enter-GOTO-brickred?style=for-the-badge&logo=github" alt="GitHub Pages" />
-  </a>
-</p>
 
 ---
 
