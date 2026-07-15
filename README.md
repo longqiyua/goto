@@ -1,9 +1,8 @@
 <p align="center">
   <img src="./GOTO_LOGO.png" alt="GOTO Logo" width="160" />
 </p>
-<h1 align="center">GOTO</h1>
 
-
+<p align="center"><strong><font size="6">GOTO</font></strong></p>
 
 <p align="center">
   Nothing to see here——But plenty to discover on GitHub Pages.
