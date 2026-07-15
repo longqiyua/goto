@@ -8,7 +8,6 @@
 </h1>
 
 
-
 <br />
 <br />
 <br />
@@ -27,51 +26,16 @@
 
 ---
 
-<br />
-<br />
 
+<br />
 
 <p align="center">
-  <font size="4" color="#888888">Find it</font>
-</p>
-
-<p align="center">
-  <font size="4" color="#888888">去看看吧。</font>
+  <a href="https://longqiyua.github.io/goto/">
+    <img src="https://img.shields.io/badge/Go%20To%20GOTO-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 <br />
-<br />
-<br />
-
-
-
-
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
   <sub>
