@@ -24,6 +24,8 @@
 
 <p align="center">
   <sub>
+    Set the interface ratio to 90 for the best presentation effect
+    <br>
     © GOTO
     <br>
     License under AGPL-3.0
