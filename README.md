@@ -13,11 +13,11 @@
 <br />
 
 <p align="center">
-  <font size="5" color="#333333">Nothing to see here —— But plenty to discover on GitHub Pages.</font>
+  <font size="5" color="#333333">For detailed information? visit the github page</font>
 </p>
 
 <p align="center">
-  <font size="4" color="#666666">这里什么都没留下。不过，我们在 GitHub Pages 里面放了一些</font>
+  <font size="4" color="#666666">详细了解请前往github page</font>
 </p>
 
 <br />
