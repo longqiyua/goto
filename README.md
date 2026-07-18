@@ -41,6 +41,6 @@
   <sub>
     © GOTO
     <br>
-    AGPL-3.0
+    License under AGPL-3.0
   </sub>
 </p>
