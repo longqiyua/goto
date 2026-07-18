@@ -41,6 +41,6 @@
   <sub>
     © GOTO
     <br>
-    AGPL-3.0 · 2026.07.15 GMT+8
+    AGPL-3.0
   </sub>
 </p>
