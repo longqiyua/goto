@@ -24,7 +24,7 @@
 
 <p align="center">
   <sub>
-    Set the interface ratio to 90 for the best presentation effect
+    Best experienced at 90% interface scale.
     <br>
     © GOTO
     <br>
