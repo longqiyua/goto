@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" width="480">
-      <img src="./GOTO_Poster(Normal).png" width="440" hspace="20">
+    <td valign="middle" width="440">
+      <img src="./GOTO_Poster(Normal).png" width="400" hspace="20">
     </td>
     <td valign="middle" align="center">
       <h1>GOTO</h1>
@@ -23,9 +23,5 @@
 </table>
 
 <p align="center">
-  <sub>
-    © GOTO
-    <br>
-    License under AGPL-3.0
-  </sub>
+  <sub>© GOTO<br>License under AGPL-3.0</sub>
 </p>
