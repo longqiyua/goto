@@ -7,14 +7,14 @@
       <h1>GOTO</h1>
       <hr>
       <p>
-        <font size="7" color="#333333">For detailed information?</b></font>
+        <font size="7" color="#333333">For detailed information?</font>
       </p>
       <p>
-        <font size="7" color="#333333">visit the github page</b></font>
+        <font size="7" color="#333333">visit the github page</font>
       </p>
       <br>
       <p>
-        <font size="6" color="#666666">详细了解请前往 github page</b></font>
+        <font size="6" color="#666666">详细了解请前往 github page</font>
       </p>
       <hr>
       <p>
