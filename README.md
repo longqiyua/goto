@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="./GOTO_LOGO.png" width="180">
+  <img src="./GOTO_Poster.png" width="180">
 </p>
 
 <h1 align="center">
